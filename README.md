@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Hospital Management System using Java provides a number of features that can help hospitals in streamlining their operations. It provides features such as patient management, appointment scheduling, and inventory management. Java also provides a secure environment that helps in protecting the confidential data of the hospital.
     <br> 
 </p>
 
