@@ -130,7 +130,6 @@ desc sale_Product;
 
 select * from sale_Product;
 
-Select * from items where itemno = 'IT001';
 
 
 
