@@ -151,19 +151,19 @@ After Updating they can log in with the new password
 <li><b>He can able to access all functionalities here given in images</b></li><br>
 <ul>
 
-# ⛏️ Built Using <a name = "built_using"></a>
+# ⛏️ Built Using <a id = "built_using" name = "built_using"></a>
 
 - MySQL - Database
 - JSwing and JFrames - Windows based application
 - JDBC - Java API to connect and execute the query with database
 
-# ✍️ Authors <a name = "authors"></a>
+# ✍️ Authors <a id="authors" name = "authors"></a>
 
 - [@KishorePrograming ](https://github.com/KishorePrograming)Kishore R - Idea & Initial work
 
-# 🎉 Acknowledgements <a name = "acknowledgement"></a>
+# 🎉 Acknowledgements <a id = "acknowledgement" name = "acknowledgement"></a>
 
 - Instruct by : - @juniedenysolomon
 - Inspiration:-@bhupendraparihar
 - References:-@juniedenysolomon
-- References:-[@KishorePrograming ](https://skill-lync.com/)
+- References:-[@Skill Lync ](https://skill-lync.com/)
