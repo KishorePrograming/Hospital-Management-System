@@ -64,11 +64,42 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 4. Run the application 
 
 # Project Views 
+<h1>Over View of Project</h1>
+<h2>Users :</h2><br>
+<b>1. Doctor</b><br>
+<b>2. Receptionist</b><br>
+<b>3. Pharmacist</b><br>
 
-## 🎈 Login Panel:
+
+## 🎈 Login Features:
+<p>
+<ol><li>First Text Field is the User Name</li>
+<li>Second Text Field is the User password and they can also see the password they are correctly given or not while entering the password Text Field before giving the login button.
+</li>
+<li>Lastly User needs to select the User type in the List Field.</li>
+<li>If they are given correctly it will go based on user type</li>
+<li>Else it will show another page with Forgot password</li>
+<li>If they click forgot password they can also change the password for that they need to enter every field correctly except the password they can change the new password for they need to enter the new password and confirm the password and one code password if the new password and confirm password is same then it will update their password.</li>
+<li>They need to exit from there and they can able to login with the new password</li>
+<li>Login Images given in next sheet</li>
+</ol>
+<p>
+
+## 🎈 Login Page:
 
 ## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login.png)
 
+<h2>If the User is not entered everything if they try to give login it will show a popup like below:</h2>
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login%20Please%20Enter%20Everything.png)
+
+<h2>If the username and password are not matched then it will show like this</h2>
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login%20Wrong%20Password%20Popup.png)
+
+<h2>Login Page with Forgot Password Option:</h2>
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login%20Page%20with%20Forgot%20Button.png)
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
