@@ -25,7 +25,6 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Installing](#Installing)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
