@@ -44,11 +44,12 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them.
 1. First You need to Install Java NetBeans
-2. second You need to Install MySQL server like Work Bench 
+2. second You need to Install MySQL server
 3. After Installation Process done You can Able to Use My Project
 
 ```
-Give examples
+Examples : 1. Java NetBeans IDE 
+           2. MySQL Workbench
 ```
 
 ### Installing
