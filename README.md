@@ -22,7 +22,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 Table of Contents <a id="Top"></a>
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
@@ -35,14 +35,20 @@ Hospital Management System (HMS) is a comprehensive software package that is use
 
 Java is a robust and secure language that is used by many organizations. It is also an open source language that can be used to create applications for any platform. Java provides an easy to use interface that allows hospitals to manage their data in an efficient manner.
 
+- [Top](#Top)
+
 ## 🏁 Getting Started <a id="getting_started" name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+- [Top](#Top)
 
 ### Prerequisites
 What things you need to install the software and how to install them.
 1. First You need to Install Java NetBeans
 2. second You need to Install MySQL server
 3. After Installation Process done You can Able to Use My Project
+
+- [Top](#Top)
 
 ```
 Examples : 1. Java NetBeans IDE 
@@ -123,6 +129,7 @@ After Updating they can log in with the new password
 </b></li><br>
 <li><b>Doctors have access to view the Doctors’ Details</b></li>
 </ul>
+- [Top](#Top)
 
 ## User Pharmacist Main Page:
 
@@ -155,9 +162,13 @@ After Updating they can log in with the new password
 - JSwing and JFrames - Windows based application
 - JDBC - Java API to connect and execute the query with database
 
+- [Top](#Top)
+
 # ✍️ Authors <a id="authors" name = "authors"></a>
 
 - [@KishorePrograming ](https://github.com/KishorePrograming)Kishore R - Idea & Initial work
+
+- [Top](#Top)
 
 # 🎉 Acknowledgements <a id = "acknowledgement" name = "acknowledgement"></a>
 
@@ -165,3 +176,5 @@ After Updating they can log in with the new password
 - Inspiration:-@bhupendraparihar
 - References:-@juniedenysolomon
 - References:-[@Skill Lync ](https://skill-lync.com/)
+
+- [Top](#Top)
