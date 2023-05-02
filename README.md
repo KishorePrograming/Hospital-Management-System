@@ -129,6 +129,7 @@ After Updating they can log in with the new password
 </b></li><br>
 <li><b>Doctors have access to view the Doctors’ Details</b></li>
 </ul>
+
 - [Top](#Top)
 
 ## User Pharmacist Main Page:
