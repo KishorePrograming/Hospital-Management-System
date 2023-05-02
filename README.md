@@ -25,6 +25,7 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Installing](#Installing)
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
@@ -52,22 +53,17 @@ Examples : 1. Java NetBeans IDE
            2. MySQL Workbench
 ```
 
-### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+### Installing <a id="Installing" name = "Installing"></a>
+1. Press the Fork button (top right the page) to save copy of this project on your account.
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
 ```
-until finished
+https://github.com/KishorePrograming/Hospital-Management-System.git
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+3. Imported it in Java NetBeans IDE 
+4. Run the application 
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
