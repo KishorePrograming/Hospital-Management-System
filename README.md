@@ -73,7 +73,7 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 
 ## 🎈 Login Features:
 <p>
-<ol><li>First Text Field is the User Name</li>
+<ul style="list-style-type:circle;"><li>First Text Field is the User Name</li>
 <li>Second Text Field is the User password and they can also see the password they are correctly given or not while entering the password Text Field before giving the login button.
 </li>
 <li>Lastly User needs to select the User type in the List Field.</li>
@@ -82,7 +82,7 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 <li>If they click forgot password they can also change the password for that they need to enter every field correctly except the password they can change the new password for they need to enter the new password and confirm the password and one code password if the new password and confirm password is same then it will update their password.</li>
 <li>They need to exit from there and they can able to login with the new password</li>
 <li>Login Images given in next sheet</li>
-</ol>
+</ul>
 <p>
 
 ## 🎈 Login Page:
@@ -109,6 +109,47 @@ After Updating they can log in with the new password
 <h2> Forgot Password Page: </h2>
 
 ## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Change%20Password%20Page.png)
+
+<b>After Login Based on User Type It will Login</b>
+
+## User Doctor Main Page:
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Main%20Doctor/1.Main%20Doctor%20page.png)
+
+<h2>Features Of Doctor Page: </h2>
+
+<ul style="list-style-type:circle;">
+<li><b>Doctors have access to Register Doctor Names and Details with Room No
+</b></li><br>
+<li><b>Doctors have access to View the channels that are channels assigned to him
+</b></li><br>
+<li><b>Doctors have access to view the Doctors’ Details</b></li>
+</ul>
+
+## User Pharmacist Main Page:
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Main%20Pharmacist/1.Main%20Pharmasist.png)
+
+<h2>Features Of Pharmacist Page: </h2>
+
+<ul style="list-style-type:circle;">
+<li><b>Pharmacists can be able to view the Prescription</b></li><br>
+<li><b>Pharmacists can be also able to Register the Items in our medicines</b></li><br>
+<li><b>They can be able to view the Doctors available in our hospital</b></li><br>
+<li><b>They can able to view the Report after giving the prescription medicines in the inventory
+</b></li><br>
+</ul>
+
+## User Receptionist Main Page:
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Main%20Receptionist/1.Main%20Receptionist.png)
+
+<h2>Features Of Receptionist Page: </h2>
+
+<ul style="list-style-type:circle;">
+<li><b>After entering the correct password, the receptionist will be able to see this page, which contains all the facilities for the receptionist.</b><li><br>
+<li><b>He can able to access all functionalities here given in images</b><li><br>
+<ul>
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
