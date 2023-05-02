@@ -151,41 +151,18 @@ After Updating they can log in with the new password
 <li><b>He can able to access all functionalities here given in images</b><li><br>
 <ul>
 
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+# ⛏️ Built Using <a name = "built_using"></a>
 
-### Break down into end to end tests
-Explain what these tests test and why
+- MySQL - Database
+- JSwing and JFrames - Windows based application
+- JDBC - Java API to connect and execute the query with database
 
-```
-Give an example
-```
+# ✍️ Authors <a name = "authors"></a>
 
-### And coding style tests
-Explain what these tests test and why
+- [@ajsat007 ](https://github.com/KishorePrograming)Kishore R - Idea & Initial work
 
-```
-Give an example
-```
+# 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Instruct by : - @juniedenysolomon
+- Inspiration:-@bhupendraparihar
+- References:-@juniedenysolomon
