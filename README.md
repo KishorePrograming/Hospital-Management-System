@@ -159,7 +159,7 @@ After Updating they can log in with the new password
 
 # ✍️ Authors <a name = "authors"></a>
 
-- [@ajsat007 ](https://github.com/KishorePrograming)Kishore R - Idea & Initial work
+- [@KishorePrograming ](https://github.com/KishorePrograming)Kishore R - Idea & Initial work
 
 # 🎉 Acknowledgements `<a name = "acknowledgement"></a>`
 
