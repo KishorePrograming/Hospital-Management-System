@@ -34,7 +34,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a id="about" name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+Hospital Management System (HMS) is a comprehensive software package that is used to manage all the activities of a hospital. Java is a powerful programming language that is used to develop HMS. It provides a wide range of features that can help hospitals in streamlining their operations.
+
+Java is a robust and secure language that is used by many organizations. It is also an open source language that can be used to create applications for any platform. Java provides an easy to use interface that allows hospitals to manage their data in an efficient manner.
 
 ## 🏁 Getting Started <a id="getting_started" name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
