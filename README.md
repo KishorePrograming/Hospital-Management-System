@@ -101,6 +101,15 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 
 ## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login%20Page%20with%20Forgot%20Button.png)
 
+<h2>Password Changing Procedures: </h2>
+<p>If the user enters Id Username, Password, and User types correctly then they need to enter Code “ KishorePasswordRest ” for changing the password all are correct then they need to enter the new password and confirm the password if these two passwords are equal then it will Update the password if it is not equal then it will show new password and confirm password is not the same then they can change they can update
+After Updating they can log in with the new password
+</p>
+
+<h2> Forgot Password Page: </h2>
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Change%20Password%20Page.png)
+
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
 
