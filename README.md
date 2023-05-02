@@ -69,7 +69,7 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 <b>2. Receptionist</b><br>
 <b>3. Pharmacist</b><br>
 
-## <b> Usage : </b>
+## <b> Usage : </b> <a id= "usage"></a>
 
 ## 🎈 Login Features:
 <p>
