@@ -147,8 +147,8 @@ After Updating they can log in with the new password
 <h2>Features Of Receptionist Page: </h2>
 
 <ul style="list-style-type:circle;">
-<li><b>After entering the correct password, the receptionist will be able to see this page, which contains all the facilities for the receptionist.</b><li><br>
-<li><b>He can able to access all functionalities here given in images</b><li><br>
+<li><b>After entering the correct password, the receptionist will be able to see this page, which contains all the facilities for the receptionist.</b></li><br>
+<li><b>He can able to access all functionalities here given in images</b></li><br>
 <ul>
 
 # ⛏️ Built Using <a name = "built_using"></a>
