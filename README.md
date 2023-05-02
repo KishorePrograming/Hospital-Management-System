@@ -25,7 +25,6 @@
 ## 📝 Table of Contents
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
 - [TODO](../TODO.md)
@@ -70,6 +69,7 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 <b>2. Receptionist</b><br>
 <b>3. Pharmacist</b><br>
 
+## <b> Usage : </b>
 
 ## 🎈 Login Features:
 <p>
