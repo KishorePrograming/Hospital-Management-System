@@ -63,6 +63,12 @@ https://github.com/KishorePrograming/Hospital-Management-System.git
 3. Imported it in Java NetBeans IDE 
 4. Run the application 
 
+# Project Views 
+
+## 🎈 Login Panel:
+
+## ![1682503871930](https://github.com/KishorePrograming/Hospital-Management-System/blob/main/Documentation/Hospital%20Management%20System%20images/Login/Login/Login.png)
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
