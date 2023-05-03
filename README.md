@@ -1,4 +1,4 @@
-# project-documentation
+# Hospital Management System
 
 <p align="center">
   <a href="" rel="noopener">
