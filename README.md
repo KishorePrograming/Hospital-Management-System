@@ -155,7 +155,7 @@ After Updating they can log in with the new password
 <ul style="list-style-type:circle;">
 <li><b>After entering the correct password, the receptionist will be able to see this page, which contains all the facilities for the receptionist.</b></li><br>
 <li><b>He can able to access all functionalities here given in images</b></li><br>
-<ul>
+</ul>
 
 # ⛏️ Built Using <a id = "built_using" name = "built_using"></a>
 
